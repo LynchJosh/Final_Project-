@@ -2,7 +2,8 @@
 ##  Overview of project
 This project will use historical data to predict future trends in the S&P 500.
 
-![5_year_plot](https://user-images.githubusercontent.com/112728628/222310331-bf3ef2ae-be57-48e3-8525-2ec656e2bafd.png)
+![total_plot](https://user-images.githubusercontent.com/112728628/222310671-418040c0-8c90-41b8-a88e-c452aac22f69.PNG)
+
 
 ##  Reason for Project
 This project looks to take in historical data and use machine learning to realize market trends over a specific measure of time.
