@@ -23,3 +23,10 @@ US dollar price index DXY
 Market close trends by day
 Communication Protocols
 We will be using Slack for our frequent communication and arranging recurring Zoom meets for overall project build.
+
+
+We are in the process of adding CSV files to show our data and some basic machine learning techniques. We plan to use these files to train and test our machine learning models. Once we have the data, we will preprocess it and split it into training and testing sets. Then we will use various machine learning algorithms, such as linear regression and decision trees, to train and test our models.
+
+We will also use techniques such as cross-validation to evaluate the performance of our models and to tune the hyperparameters. Once we have trained and tested our models, we will use them to make predictions on new data.
+
+Please note that this work is currently in progress, and we may encounter some errors along the way. We will do our best to address any issues that arise and to produce accurate and reliable results.
