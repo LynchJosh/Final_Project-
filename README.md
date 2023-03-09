@@ -4,6 +4,11 @@ This project will use historical data to predict future trends in the S&P 500.
 
 ![total_plot](https://user-images.githubusercontent.com/112728628/222310671-418040c0-8c90-41b8-a88e-c452aac22f69.PNG)
 
+### Our Tables for the Database
+
+![table 2](https://user-images.githubusercontent.com/112728628/223899779-ae3e3d08-8ba6-427d-b2a2-f940c9913f15.PNG)
+![table 3](https://user-images.githubusercontent.com/112728628/223899783-20b62495-ee17-4a5b-b18f-6f1d7413bc72.PNG)
+![table 1](https://user-images.githubusercontent.com/112728628/223899784-0ff88bf3-33bd-42f3-89db-949bbcf3fe23.PNG)
 
 
 ## Random Forest Model 
