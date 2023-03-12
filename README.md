@@ -4,7 +4,7 @@ This project will use historical data to predict future trends in the S&P 500.
 
 ![total_plot](https://user-images.githubusercontent.com/112728628/222310671-418040c0-8c90-41b8-a88e-c452aac22f69.PNG)
 
-### Our Tables for the Database
+## Our Tables for the Database
 
 ![table 2](https://user-images.githubusercontent.com/112728628/223899779-ae3e3d08-8ba6-427d-b2a2-f940c9913f15.PNG)
 ![table 3](https://user-images.githubusercontent.com/112728628/223899783-20b62495-ee17-4a5b-b18f-6f1d7413bc72.PNG)
@@ -16,7 +16,8 @@ This project will use historical data to predict future trends in the S&P 500.
 
 Random forest is a powerful machine learning algorithm that uses an ensemble of decision trees to make predictions. It works by training multiple decision trees on random subsets of the data and then combining their predictions to reduce overfitting. In this case, the random forest model was able to predict prices within $20 with a high degree of accuracy, as indicated by the R score of .9981. This means that the model is able to explain 99.81% of the variance in the data, making it a highly reliable predictor of prices. Overall, the use of random forest represents a robust and effective approach to predicting prices in this context.
 
-
+## P Values
+![p value](https://user-images.githubusercontent.com/112728628/224519597-50ac2b5e-76eb-4a00-a87f-8c91d4de36fa.png)
 
 ##  Reason for Project
 This project looks to take in historical data and use machine learning to realize market trends over a specific measure of time.
