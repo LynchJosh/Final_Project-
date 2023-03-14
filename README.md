@@ -6,9 +6,10 @@ This project will use historical data to predict future trends in the S&P 500.
 
 ## Our Tables for the Database
 
-![table 2](https://user-images.githubusercontent.com/112728628/223899779-ae3e3d08-8ba6-427d-b2a2-f940c9913f15.PNG)
-![table 3](https://user-images.githubusercontent.com/112728628/223899783-20b62495-ee17-4a5b-b18f-6f1d7413bc72.PNG)
-![table 1](https://user-images.githubusercontent.com/112728628/223899784-0ff88bf3-33bd-42f3-89db-949bbcf3fe23.PNG)
+
+![table 2](https://user-images.githubusercontent.com/112728628/224869154-80303ee2-8e2f-4dca-893c-d44d273489e3.PNG)
+![table 3](https://user-images.githubusercontent.com/112728628/224869156-33abe80b-70a5-4653-a762-f1b5de4690ea.PNG)
+![table 1](https://user-images.githubusercontent.com/112728628/224869157-bcc58319-ad75-4595-a344-088026a108e4.PNG)
 
 
 ## Random Forest Model 
@@ -16,8 +17,9 @@ This project will use historical data to predict future trends in the S&P 500.
 
 Random forest is a powerful machine learning algorithm that uses an ensemble of decision trees to make predictions. It works by training multiple decision trees on random subsets of the data and then combining their predictions to reduce overfitting. In this case, the random forest model was able to predict prices within $20 with a high degree of accuracy, as indicated by the R score of .9981. This means that the model is able to explain 99.81% of the variance in the data, making it a highly reliable predictor of prices. Overall, the use of random forest represents a robust and effective approach to predicting prices in this context.
 
-## P Values
-![p value](https://user-images.githubusercontent.com/112728628/224519597-50ac2b5e-76eb-4a00-a87f-8c91d4de36fa.png)
+## P Values & R Squared
+![New R squared and P values (1)](https://user-images.githubusercontent.com/112728628/224869592-d4b6af88-9325-4012-a23b-cebb7f9c3ee1.png)
+
 
 ##  Reason for Project
 This project looks to take in historical data and use machine learning to realize market trends over a specific measure of time.
