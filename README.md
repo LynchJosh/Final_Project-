@@ -12,10 +12,10 @@ This project will use historical data to predict future trends in the S&P 500.
 ![table 1](https://user-images.githubusercontent.com/112728628/224869157-bcc58319-ad75-4595-a344-088026a108e4.PNG)
 
 
-## Random Forest Model 
-![image](https://user-images.githubusercontent.com/112728628/223897192-1f17296e-7ffe-479f-a443-202b32e01b94.png)
+##  Neural Network 
+![image_720](https://user-images.githubusercontent.com/112728628/224870592-f9d9f8d0-9ba8-41f5-b286-0aaa481bddd5.png)
+We used neural network as our main machine model because of its ability to learn from patterns and make accurate predictions for stock prices
 
-Random forest is a powerful machine learning algorithm that uses an ensemble of decision trees to make predictions. It works by training multiple decision trees on random subsets of the data and then combining their predictions to reduce overfitting. In this case, the random forest model was able to predict prices within $20 with a high degree of accuracy, as indicated by the R score of .9981. This means that the model is able to explain 99.81% of the variance in the data, making it a highly reliable predictor of prices. Overall, the use of random forest represents a robust and effective approach to predicting prices in this context.
 
 ## P Values & R Squared
 ![New R squared and P values (1)](https://user-images.githubusercontent.com/112728628/224869592-d4b6af88-9325-4012-a23b-cebb7f9c3ee1.png)
