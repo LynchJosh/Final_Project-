@@ -2,10 +2,13 @@
 ##  Overview of project
 This project will use historical data to predict future trends in the S&P 500.
 
-![total_plot](https://user-images.githubusercontent.com/112728628/222310671-418040c0-8c90-41b8-a88e-c452aac22f69.PNG)
+![cpi   spy](https://user-images.githubusercontent.com/112728628/225485006-4d16a8e9-9c7c-4f0a-b2e4-d7598c06902b.PNG)
+
+##  Google Slides
+
+https://docs.google.com/presentation/d/1IAjQFdL_krKOru6qLKa94vrXCoKVHO2pZ74FlPr3Gps/edit?usp=sharing
 
 ## Our Tables for the Database
-
 
 ![table 2](https://user-images.githubusercontent.com/112728628/224869154-80303ee2-8e2f-4dca-893c-d44d273489e3.PNG)
 ![table 3](https://user-images.githubusercontent.com/112728628/224869156-33abe80b-70a5-4653-a762-f1b5de4690ea.PNG)
