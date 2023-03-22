@@ -8,6 +8,10 @@ This project will use historical data to predict future trends in the S&P 500.
 
 https://docs.google.com/presentation/d/1IAjQFdL_krKOru6qLKa94vrXCoKVHO2pZ74FlPr3Gps/edit?usp=sharing
 
+##  Tableau
+
+https://public.tableau.com/app/profile/joshua.lynch/viz/Classproject_16789029559650/Story1?publish=yes
+
 ## Our Tables for the Database
 
 ![table 2](https://user-images.githubusercontent.com/112728628/224869154-80303ee2-8e2f-4dca-893c-d44d273489e3.PNG)
