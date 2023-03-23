@@ -54,9 +54,9 @@ We will be using Slack for our frequent communication and arranging recurring Zo
 
 
 ##  Group Members
-Joshua Lynch
-Benjamin Fogler
-Guillermo Galguera
-Alex Litras
+- Joshua Lynch
+- Benjamin Fogler
+- Guillermo Galguera
+- Alex Litras
 
 
