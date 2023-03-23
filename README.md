@@ -53,4 +53,10 @@ Communication Protocols
 We will be using Slack for our frequent communication and arranging recurring Zoom meets for overall project build.
 
 
+##  Group Members
+Joshua Lynch
+Benjamin Fogler
+Guillermo Galguera
+Alex Litras
+
 
